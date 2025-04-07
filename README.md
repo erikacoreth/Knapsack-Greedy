@@ -19,7 +19,7 @@ Greedy (not guaranteed to find the absolute best solution, but efficient and fas
 
 ## 📂 File Structure
 
-
+├── knapsack.py # Main script with algorithm and logic ├── items.csv # Input file with item data └── README.md # Project overview and usage
 ---
 
 ## 📥 Input File Format (`items.csv`)
